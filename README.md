@@ -2,6 +2,8 @@
 
 Application web légère et bilingue conçue pour les voyageurs accueillis au 141 avenue Maréchal de Saxe (Lyon 3e), particulièrement lors de la fête des Lumières et des séjours d'hiver. Le projet propose une alternative aux brochures touristiques standardisées en partageant les itinéraires réels et les adresses locales testées par les hôtes.
 
+https://caroheymes.github.io/welcome-at-home/
+
 ## Démarche et vision du projet
 
 L'objectif principal est d'offrir aux invités une autonomie complète dès leur arrivée, avec un accès immédiat aux repères essentiels du quartier et à quatre journées de découverte optimisées à pied et en transports.
